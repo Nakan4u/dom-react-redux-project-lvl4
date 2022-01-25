@@ -15,9 +15,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:hexlet-components/projects-frontend-l4-server.git"
+    "url": "https://github.com/Nakan4u/dom-react-redux-project-lvl4"
   },
-  "author": "Kirill Mokevnin",
+  "author": "Andriy Kolos",
   "license": "ISC",
   "homepage": "",
   "dependencies": {
